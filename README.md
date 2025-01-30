@@ -2,9 +2,9 @@
 
 **Sobre Mim:**
 
-Com uma trajetória sólida em tecnologia da informação,minha expertise abrange desde a gestão de serviços até odesenvolvimento full stack. Na Cognizant, como EspecialistaGoogle, eu apoiei empreendedores e empresas na maximização dopotencial das ferramentas Google, uma competência que se alinhacom meu comprometimento em promover a inovação tecnológica ea eficiência operacional.
+Com uma trajetória sólida em tecnologia da informação, minha expertise abrange desde a gestão de serviços até o desenvolvimento full stack. Na Cognizant, como Especialista Google, eu apoiei empreendedores e empresas na maximização do potencial das ferramentas Google, uma competência que se alinha com meu comprometimento em promover a inovação tecnológica e a eficiência operacional.
 
-Anteriormente, na Odebrecht TransPort, fui responsável pelainfraestrutura de TI e pela gestão de contratos com fornecedores,garantindo a organização financeira e a melhoria contínua dosprocessos. Essas experiências reforçam minha capacidade deliderar equipes e projetos com foco na otimização de recursos e naentrega de soluções estratégicas que impulsionam o crescimentoempresarial.
+Anteriormente, na Odebrecht TransPort, fui responsável pela infraestrutura de TI e pela gestão de contratos com fornecedores, garantindo a organização financeira e a melhoria contínua dos processos. Essas experiências reforçam minha capacidade de liderar equipes e projetos com foco na otimização de recursos e na entrega de soluções estratégicas que impulsionam o crescimento empresarial.
 
 **Projetos:**
 
